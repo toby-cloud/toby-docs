@@ -7,6 +7,7 @@
 * [Toby Server](server/intro.md)
    * [API](server/api.md)
    * [Usage](server/usage.md)
+   * Messages and Hooks
 * [Toby Clients](clients/intro.md)
    * [Toby-Node](clients/toby-node.md)
 
