@@ -27,10 +27,10 @@ When there is a message for the bot, the Server will send PUBLISH packet to
 the bot. The message payload will be a UTF-8 encoded JSON string with the following
 fields:
 
-- from: (String) the sender of the message.
-- payload: (JSON Object) the message payload.
-- tags: (Array) the message tags.
-- ack: (String) the tag any response messages should be tagged with.
+* from: (String) the sender of the message.
+* payload: (JSON Object) the message payload.
+* tags: (Array) the message tags.
+* ack: (String) the tag any response messages should be tagged with.
 
 
 ## Making requests
