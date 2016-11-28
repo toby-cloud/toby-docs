@@ -16,4 +16,5 @@
    * [Toby-CLI](clients/toby-cli.md)
    * [Toby-Python](clients/toby-python.md)
    * [Toby-Arduino](clients/toby-arduino.md)
+   * Toby-Websockets
 
