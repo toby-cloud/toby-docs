@@ -7,5 +7,5 @@
    * [API](server/api.md)
    * [Usage](server/usage.md)
 * [Toby Clients](clients/intro.md)
-   * Toby-Node
+   * [Toby-Node](clients/toby-node.md)
 
