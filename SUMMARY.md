@@ -15,5 +15,5 @@
    * [Toby-Go](clients/toby-go.md)
    * [Toby-CLI](clients/toby-cli.md)
    * [Toby-Python](clients/toby-python.md)
-   * Toby-Arduino
+   * [Toby-Arduino](clients/toby-arduino.md)
 
