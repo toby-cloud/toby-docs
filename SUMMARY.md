@@ -5,4 +5,5 @@
    * [MQTT](overview/mqtt.md)
 * [Toby Server](server/intro.md)
    * [API](server/api.md)
+   * Usage
 
