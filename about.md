@@ -1,5 +1,5 @@
 # About
 
-## Gabe Garcia
+### Gabriel Garcia
 
-## Tiffany Chung
+### Tiffany Chung
