@@ -38,7 +38,7 @@ fields:
 To make a request, a bot must send an MQTT PUBLISH packet to the server with the
 following:
 
-- Topic: `server/<id>/<endpoint>` where `<id>` is the ID of the bot.
-- Payload: The UTF-8 encoded JSON string representation of the request.
+* Topic: `server/<id>/<endpoint>` where `<id>` is the ID of the bot.
+* Payload: The UTF-8 encoded JSON string representation of the request.
 
 
