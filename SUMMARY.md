@@ -11,4 +11,5 @@
    * [Messages and Hooks](server/messages_and_hooks.md)
 * [Toby Clients](clients/intro.md)
    * [Toby-Node](clients/toby-node.md)
+   * Toby-Java
 
