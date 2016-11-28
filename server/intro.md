@@ -5,9 +5,9 @@
 To connect to the Server, a Client must send a CONNECT Packet to the Server. The
 CONNECT Packet must include the following:
 
-- Client identifier: the ID of the bot attempting to make the connection.
-- User Name: the ID of the bot attempting to make the connection.
-- Password: the SK of the bot attempting to make the connection.
+* Client identifier: the ID of the bot attempting to make the connection.
+* User Name: the ID of the bot attempting to make the connection.
+* Password: the SK of the bot attempting to make the connection.
 
 Note that the client identifier and username must be the same.
 
