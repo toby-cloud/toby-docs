@@ -19,7 +19,6 @@
    * [Toby-Websockets](clients/toby-websockets.md)
 * [Change Log](change_log.md)
    * [Changelog - Toby-Clients](changelog-tobyclients.md)
-   * [Changelog - Toby Server](changelog-tobyserver.md)
-       * [Changelog - Toby-Clients](changelog-tobyclients.md)
+   * [Changelog - Toby Server](changelogs/changelog-tobyservermd.md)
 * [About](about.md)
 
