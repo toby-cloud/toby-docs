@@ -6,4 +6,5 @@
 * [Toby Server](server/intro.md)
    * [API](server/api.md)
    * [Usage](server/usage.md)
+* Toby Clients
 
