@@ -18,7 +18,7 @@ If the connection is successful, the Server will send a CONNACK Packet.
 Now to receive data from the Server, the bot must send a SUBSCRIBE packet to the
 server with the following payload:
 
-- Topic: `client/ID` where ID is the ID of the bot.
+* Topic: `client/ID` where ID is the ID of the bot.
 
 If the subscription is successful, the Server will send a SUBACK Packet. Any messages
 for the bot will be published to this subscribed topic.
