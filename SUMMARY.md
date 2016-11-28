@@ -13,5 +13,5 @@
    * [Toby-Node](clients/toby-node.md)
    * [Toby-Java](clients/toby-java.md)
    * [Toby-Go](clients/toby-go.md)
-   * Toby-CLI
+   * [Toby-CLI](clients/toby-cli.md)
 
