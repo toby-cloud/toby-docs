@@ -18,6 +18,7 @@
    * [Toby-Arduino](clients/toby-arduino.md)
    * [Toby-Websockets](clients/toby-websockets.md)
 * [Change Log](change_log.md)
+   * Changelog - Toby-Clients
    * [Changelog - Toby Server](changelog-tobyserver.md)
        * Changelog - Toby-Clients
 * [About](about.md)
