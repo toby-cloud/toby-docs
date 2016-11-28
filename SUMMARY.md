@@ -17,6 +17,6 @@
    * [Toby-Python](clients/toby-python.md)
    * [Toby-Arduino](clients/toby-arduino.md)
    * [Toby-Websockets](clients/toby-websockets.md)
-* [About](about.md)
 * [Change Log](change_log.md)
+* [About](about.md)
 
