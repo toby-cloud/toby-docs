@@ -20,6 +20,6 @@
 * [Change Log](change_log.md)
    * Changelog - Toby-Clients
    * [Changelog - Toby Server](changelog-tobyserver.md)
-       * Changelog - Toby-Clients
+       * [Changelog - Toby-Clients](changelog-tobyclients.md)
 * [About](about.md)
 
