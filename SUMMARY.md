@@ -8,7 +8,7 @@
    * [Usage](server/usage.md)
    * [API](server/api.md)
    * [Messages and Hooks](server/messages_and_hooks.md)
-   * Requests
+   * [Requests](server/requests.md)
 * [Toby Clients](clients/intro.md)
    * [Toby-Node](clients/toby-node.md)
 
