@@ -10,7 +10,6 @@ CONNECT Packet must include the following:
 * Password: the SK of the bot attempting to make the connection.
 
 Note that the client identifier and username must be the same.
-
 If the connection is successful, the Server will send a CONNACK Packet.
 
 
