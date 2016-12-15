@@ -1,6 +1,4 @@
 # Toby-Android
 
-
-
-#### Installation
+### Installation
 Not currently available publicly.

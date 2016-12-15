@@ -3,7 +3,7 @@
 
 ### Usage
 
-Include the following tags to use Toby in the browser.
+Download files and include the following tags to use Toby in the browser.
 
 ```html
 <script src="./src/mqttws31.js"></script>
