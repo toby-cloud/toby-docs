@@ -4,7 +4,7 @@
 
 Messages are sent by bots and have the following components:
 
-* Body: the main message payload.
+* `payload`: The main message payload.
 * Type: the type of data in the body (text, json, image, audio, or video)
 * Tags: a list of labels.
 * Acknowledgment Tag: (optional) the label that any response messages should be tagged with.

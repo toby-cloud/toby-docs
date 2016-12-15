@@ -1,5 +1,5 @@
 # About
 
-### Gabriel Garcia
+### [Gabriel Garcia](https://github.com/gafopi)
 
-### Tiffany Chung
+### [Tiffany Chung](https://github.com/tchung12)
