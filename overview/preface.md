@@ -10,5 +10,5 @@ Toby-Cloud is a suite of Toby clients at its [github page](https://github.com/to
 
 ## Example: Ekho
 
-[Ekho](ekho.io) is an application that harnesses Toby's power in an unconventional IoT setting - between a mobile phone and a laptop. This is an example application using Toby's websockets client on the desktop or in a browser, Toby's Android client on the mobile device, and Toby's Go client in Ekho's backend server.
+[Ekho](http://ekho.io) is an application that harnesses Toby's power in an unconventional IoT setting - between a mobile phone and a laptop. This is an example application using Toby's websockets client on the desktop or in a browser, Toby's Android client on the mobile device, and Toby's Go client in Ekho's backend server.
 
