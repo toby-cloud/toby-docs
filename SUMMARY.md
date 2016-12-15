@@ -16,5 +16,6 @@
     * [Toby-Node](clients/toby-node.md)
     * [Toby-Python](clients/toby-python.md)
     * [Toby-Websockets](clients/toby-websockets.md)
+* [Security](server/security.md)
 * [About](about.md)
 
