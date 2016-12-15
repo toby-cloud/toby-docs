@@ -8,7 +8,7 @@
     * [API](server/api.md)
     * [Requests](server/requests.md)
 * [Toby Clients](clients/intro.md)
-    * Toby-Android
+    * [Toby-Android](clients/toby-android.md)
     * [Toby-Arduino](clients/toby-arduino.md)
     * [Toby-CLI](clients/toby-cli.md)
     * [Toby-Go](clients/toby-go.md)
